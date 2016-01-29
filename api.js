@@ -1,5 +1,9 @@
 /**
  * Created by rbwilliams on 29/01/2016.
+ *
+ * Web task for internship day, completed must have, should have and would like.
+ * Missing could have.
+ *
  */
 
 var data;
@@ -92,13 +96,3 @@ function distance(lat1, lon1, lat2, lon2){
     return dist;
 }
 
-/*
-function dropdownList(data){
-    var list = $('#list');
-    for(var val in data) {
-        $('<option />', {value: val, text: JSON.stringify(data[val])}).appendTo(list);
-    }
-    /!*$.each(data["key"], function(i, prop){
-        console.log(prop);
-    });*!/
-}*/

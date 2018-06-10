@@ -1,9 +1,6 @@
 /**
  * Created by rbwilliams on 29/01/2016.
  *
- * Web task for internship day, completed must have, should have and would like.
- * Missing could have.
- *
  */
 
 var data;
